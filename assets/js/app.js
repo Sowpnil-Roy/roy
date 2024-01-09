@@ -149,7 +149,7 @@ let footer = $(`
     <a class="social-button twitter" href="#" target="_blank">
     <!-- SVG code for twitter icon -->
     <svg class="twitter-icon-footer" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
+        xmlns:xlink="https://twitter.com/RoySowpnil" x="0px" y="0px" viewBox="0 0 500 500" enable-background="new 0 0 500 500"
         xml:space="preserve">
         <!-- bird body -->
         <path id="body" fill="#5DA8DC" d="M142.9,364.1c-1.6,1-3,1.7-4,2.3c-3,1.5-7.9,3.8-14.9,6.9c-7,3.1-14.7,5.7-23.1,7.9
