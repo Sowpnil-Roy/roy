@@ -1,7 +1,7 @@
 window.onload = function () {
   const favicon = document.getElementById("favicon");
   let pageTitle = document.title;
-  let attentionMessage = "Come back";
+  let attentionMessage = "Sowpnil";
 
   document.addEventListener("visibilitychange", function (e) {
     let isPageActive = !document.hidden;
@@ -23,7 +23,7 @@ window.onload = function () {
   function toggle() {
     if (document.title === attentionMessage) {
         document.title = pageTitle;
-        favicon.href = "./assets/images/dp_male.svg";
+        favicon.href = "./assets/images/dp_male.png";
     } else {
         document.title = attentionMessage;
         favicon.href = "./assets/images/folded.png";
